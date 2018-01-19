@@ -1,0 +1,22 @@
+{
+  "name": "landers.node.check-git-branch",
+  "version": "1.0.2",
+  "description": "landers.Node.CheckGitBranch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landers",
+    "CheckMaster"
+  ],
+  "author": "Landers",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "node-notifier": "^5.1.2"
+  }
+}
